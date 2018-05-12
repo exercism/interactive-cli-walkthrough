@@ -1,5 +1,6 @@
-::Installing Exercism via Homebrew - Troubleshooting
+::Installing Exercism via Homebrew - Expert - Troubleshooting
 # Installing Exercism via Homebrew - Troubleshooting
+
 Having problems getting Exercism on your computer? A solution to your problem may be present below.
 
 ---
@@ -8,4 +9,4 @@ Having problems getting Exercism on your computer? A solution to your problem ma
 
 - [[Yes (Finish)->Installation complete]]
 - [[No->Talk to a Volunteer]]
-- [[Try another installation method->Manual Installation on a Mac]]
+- [[Try another installation method->Manual Installation on a Mac - Expert]]

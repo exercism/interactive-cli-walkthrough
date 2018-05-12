@@ -1,13 +1,20 @@
 ::Installing Exercism via Homebrew - Expert
 # Installing Exercism via Homebrew
 
-To install exercism, simply run:
+To install Exercism CLI, simply run:
 
 ```
-brew install exercism
+brew update && brew install exercism
+```
+
+Verify that it was installed properly by running:
+
+```
+exercism --version
 ```
 
 ---
-Next steps:
+## Have you installed Exercism on your computer?
 
-- [[Continue->Installation complete]]
+- [[Yes (Finish)->Installation complete]]
+- [[No->Installing Exercism via Homebrew - Expert - Troubleshooting]]
