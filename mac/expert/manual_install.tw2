@@ -4,9 +4,15 @@
 1. Download the appropriate version of exercism based on your process architecture at the [releases page](https://github.com/exercism/cli/releases/latest).
 2. Unzip and put the binary in your path.
 
+After that, verify that it was installed properly by running:
+
+```
+exercism --version
+```
+
 ----
 
 Next steps:
 
-- [[Continue->Installation complete]]
+- [[Continue (Finish)->Installation complete]]
 - [[I don't know my process architecture->Determine process architecture on a Mac]]
