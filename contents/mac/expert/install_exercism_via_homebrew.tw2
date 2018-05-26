@@ -1,16 +1,16 @@
 ::Installing Exercism via Homebrew - Expert
 # Installing Exercism via Homebrew
 
-To install exercism, simply run:
+To install BINARY_NAME, simply run:
 
 ```
-brew update && brew install exercism
+brew update && brew install BINARY_NAME
 ```
 
 Verify that it was installed properly by running:
 
 ```
-exercism version
+BINARY_NAME version
 ```
 
 ---

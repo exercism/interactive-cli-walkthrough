@@ -1,9 +1,9 @@
 ::Linux Introduction
 # Installing Exercism on Linux
 
-To install Exercism on Linux you need to get the `exercism`
+To install Exercism on Linux you need to get the `BINARY_NAME`
 executable; different process architectures have different
-`exercism` executables, so you need to install the
+`BINARY_NAME` executables, so you need to install the
 right exectuable matching your process architecture.
 
 ---

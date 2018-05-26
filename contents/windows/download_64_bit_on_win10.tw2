@@ -22,34 +22,34 @@ To verify you are on the correct page, you must see a Downloads list when you sc
 ## Step 2
 ### Exercise
 
-On the downloads list, click the file named `exercism-windows-64bit.zip` to download it:
+On the downloads list, click the file named `BINARY_NAME-windows-64bit.zip` to download it:
 
 ![64-bit download](https://transfer.sh/mwMGe/win10.png)
 
 ### Verify
 
-To verify the file was downloaded, you should see a file named `exercism-windows-64bit.zip` in your `Downloads` folder.
+To verify the file was downloaded, you should see a file named `BINARY_NAME-windows-64bit.zip` in your `Downloads` folder.
 
 
 ## Step 3
 ### Exercise
 
-Double click on `exercism-windows-64bit.zip` to open the folder.
+Double click on `BINARY_NAME-windows-64bit.zip` to open the folder.
 
 ### Verify
 
-The folder will show the file `exercism`, and will look something like this:
+The folder will show the file `BINARY_NAME`, and will look something like this:
 
 ![Extracted folder](https://transfer.sh/h8C4G/win10-zip.png)
 
 
 ## Wrapping up
 
-If you've reached the end of this tutorial without any problems, you should have the program `exercism` in your `Downloads` folder!
+If you've reached the end of this tutorial without any problems, you should have the program `BINARY_NAME` in your `Downloads` folder!
 
 ---
 
-## Were you able to get the program `exercism` in your `Downloads` folder?
+## Were you able to get the program `BINARY_NAME` in your `Downloads` folder?
 
 - [[Yes->Opening the Command Prompt on Windows 10]]
 - [[No->Download CLI Installer for Windows]]

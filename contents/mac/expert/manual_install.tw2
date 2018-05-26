@@ -1,13 +1,13 @@
 ::Manual Installation on a Mac - Expert
 # Installing Exercism on a Mac manually
 
-1. Download the appropriate version of exercism based on your processor architecture at the [releases page](https://github.com/exercism/cli/releases/latest).
+1. Download the appropriate version of BINARY_NAME based on your processor architecture at the [releases page](https://github.com/exercism/cli/releases/latest).
 2. Unzip and put the binary in your path.
 
 After that, verify that it was installed properly by running:
 
 ```
-exercism version
+BINARY_NAME version
 ```
 
 ----

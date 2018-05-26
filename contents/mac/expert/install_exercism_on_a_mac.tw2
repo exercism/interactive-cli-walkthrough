@@ -1,7 +1,7 @@
 ::Installing Exercism on a Mac - Expert
 # Installing Exercism on a Mac
 
-Do you want to use homebrew to install exercism?
+Do you want to use homebrew to install BINARY_NAME?
 
 - [[Yes->Installing Exercism via Homebrew - Expert]]
 - [[No->Manual Installation on a Mac - Expert]]

@@ -1,7 +1,7 @@
 ::Add to $PATH on a Mac
 # Add to $PATH on a Mac
 
-In order to for us to run the exercism program from anywhere in our terminal, we need to add its location to the $PATH variable.
+In order to for us to run the BINARY_NAME program from anywhere in our terminal, we need to add its location to the $PATH variable.
 
 ---
 
@@ -28,20 +28,20 @@ source ~/.bash_profile
 Next, paste the following command in your terminal:
 
 ```
-exercism
+BINARY_NAME
 ```
 
 #### Variable updated successfully
 
-If the terminal replies with instructions on how to use the exercism program, you've installed exercism successfully! Give yourself a pat on the back.
+If the terminal replies with instructions on how to use the BINARY_NAME program, you've installed BINARY_NAME successfully! Give yourself a pat on the back.
 
 #### Variable not updated
 
-If the terminal replies saying that the exercism command is not found, it means that the variable wasn't updated.
+If the terminal replies saying that the BINARY_NAME command is not found, it means that the variable wasn't updated.
 
 ### Wrapping up
 
-If you've reached the end of this tutorial without any problems, you have installed exercism successfully!
+If you've reached the end of this tutorial without any problems, you have installed BINARY_NAME successfully!
 
 ---
 

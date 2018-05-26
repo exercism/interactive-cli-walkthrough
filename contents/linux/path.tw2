@@ -4,7 +4,7 @@
 Note: If you’re not running Bash try to adjust the
 below to your shell or [[Talk to a Volunteer]].
 
-To have the `exercism` executable available everywhere on the
+To have the `BINARY_NAME` executable available everywhere on the
 command line you need to make sure `~/bin` is in your `$PATH`.
 
 There is a chance it’s there already; let’s see whether it is:
@@ -22,26 +22,26 @@ source ~/.bash_profile
 ```
 
 To check whether this worked, go to your home directory
-and try to run `exercism` without providing the path:
+and try to run `BINARY_NAME` without providing the path:
 
 ```
 cd
-exercism
+BINARY_NAME
 ```
 
 The above should output something like the below:
 ```
 NAME:
-   exercism - A command line tool to interact with http://exercism.io
+   BINARY_NAME - A command line tool to interact with http://exercism.io
 
 USAGE:
-   exercism [global options] command [command options] [arguments...]
+   BINARY_NAME [global options] command [command options] [arguments...]
 …
 ```
 
 ---
 
-## Did running `exercism` outout something like the above?
+## Did running `BINARY_NAME` outout something like the above?
 
 - [[Yes->Installation complete]]
 - [[No->Talk to a Volunteer]]
