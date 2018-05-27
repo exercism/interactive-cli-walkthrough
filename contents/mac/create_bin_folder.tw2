@@ -43,18 +43,18 @@ Your terminal should reply with the following message when the folder was not cr
 
 #### Exercise
 
-Once the folder was created, paste in the following command in your terminal to move the exercism program to the `bin` folder:
+Once the folder was created, paste in the following command in your terminal to move the BINARY_NAME program to the `bin` folder:
 
 ```
-mv ~/Downloads/exercism ~/bin
+mv ~/Downloads/BINARY_NAME ~/bin
 ```
 
 #### Verify
 
-To verify whether you've moved the exercism progam correctly, paste in the following command to your terminal:
+To verify whether you've moved the BINARY_NAME progam correctly, paste in the following command to your terminal:
 
 ```
-if [ -f ~/bin/exercism ]; then echo "file moved"; else echo "file not moved"; fi
+if [ -f ~/bin/BINARY_NAME ]; then echo "file moved"; else echo "file not moved"; fi
 ```
 
 ##### File moved
@@ -67,11 +67,11 @@ After pasting in the command, your terminal must reply with `file not moved` if 
 
 ### Wrapping up
 
-If you've reached the end of this tutorial without any problems, you should've created a `bin` folder and moved the exercism program into it!
+If you've reached the end of this tutorial without any problems, you should've created a `bin` folder and moved the BINARY_NAME program into it!
 
 ---
 
-## Were you able to move the exercism program to your `bin` folder?
+## Were you able to move the BINARY_NAME program to your `bin` folder?
 
 - [[Yes->Add to $PATH on a Mac]]
 - [[No->Create bin folder on a Mac - Troubleshooting]]

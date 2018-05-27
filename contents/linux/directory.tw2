@@ -10,31 +10,31 @@ First, let’s make sure the directory exists:
 mkdir -p ~/bin
 ```
 
-Next, let’s move the `exercism` executable there:
+Next, let’s move the `BINARY_NAME` executable there:
 
 ```
-mv exercism ~/bin
+mv BINARY_NAME ~/bin
 ```
 
 Make sure everything worked:
 
 ```
-~/bin/exercism
+~/bin/BINARY_NAME
 ```
 
 The above should output something like the below:
 ```
 NAME:
-   exercism - A command line tool to interact with http://exercism.io
+   BINARY_NAME - A command line tool to interact with http://exercism.io
 
 USAGE:
-   exercism [global options] command [command options] [arguments...]
+   BINARY_NAME [global options] command [command options] [arguments...]
 …
 ```
 
 ---
 
-## Did running `~/bin/exercism` outout something like the above?
+## Did running `~/bin/BINARY_NAME` outout something like the above?
 
 - [[Yes->Linux path]]
 - [[No->Talk to a Volunteer]]

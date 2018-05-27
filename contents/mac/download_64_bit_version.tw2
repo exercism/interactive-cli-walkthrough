@@ -30,7 +30,7 @@ To verify you are on the correct page, you must see a Downloads list when you sc
 On the downloads list, click on the file named:
 
 ```
-exercism-mac-64bit.tgz
+BINARY_NAME-mac-64bit.tgz
 ```
 
 Clicking on it downloads the file.
@@ -44,18 +44,18 @@ If you're unable to find it, here it is on the downloads list:
 To verify whether you've downloaded the right file, you should see the following file in your `Downloads` folder:
 
 ```
-exercism-mac-64bit.tgz
+BINARY_NAME-mac-64bit.tgz
 ```
 
 ### Step 3
 
 #### Exercise
 
-Double click on `exercism-mac-64bit.tgz` in order to extract it.
+Double click on `BINARY_NAME-mac-64bit.tgz` in order to extract it.
 
 #### Verify
 
-To determine whether you've correctly extracted it, you must see a file named `exercism` appear.
+To determine whether you've correctly extracted it, you must see a file named `BINARY_NAME` appear.
 
 To illustrate, your `Downloads` folder should somewhat appear as this:
 

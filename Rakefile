@@ -8,5 +8,12 @@ end
 
 desc "Compile the walkthrough"
 task :compile do
-  Twee2.build("main.tw2", "compiled.html", format: "Snowman")
+  filename = "compiled.html"
+  binary_name = ENV["BINARY_NAME"] || "exercism"
+
+  Twee2.build("main.tw2", filename, format: "Snowman")
+  contents = File.read(filename).gsub("BINARY_NAME", binary_name)
+  File.open(filename, "wb") do |f|
+    f.puts contents
+  end
 end
