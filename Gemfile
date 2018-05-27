@@ -7,3 +7,4 @@ gem "twee2"
 gem "minitest", require: false
 gem "graph", require: false
 gem "rake"
+gem "therubyracer"
