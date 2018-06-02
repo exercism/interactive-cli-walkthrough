@@ -5,7 +5,7 @@
 
 If you know your process architecture (32-bit vs 64-bit vs
 ARM), download the appropriate archive from the [releases
-page](https://github.com/exercism/cli/releases/latest).
+page](RELEASE_URL).
 
 ## Extract from the archive
 
