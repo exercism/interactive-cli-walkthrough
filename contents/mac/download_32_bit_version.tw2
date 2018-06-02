@@ -14,7 +14,7 @@ Now that we've found out that you run on a 32-bit processor architecture. Let's 
 Open your browser and navigate to this page:
 
 ```
-https://github.com/exercism/cli/releases/latest
+RELEASE_URL
 ```
 
 #### Verify

@@ -9,7 +9,7 @@ Let's download the latest version of the Exercism CLI to get up and running.
 Open your browser (for example, Chrome or Edge) and navigate to
 
 ```
-https://github.com/exercism/cli/releases/latest
+RELEASE_URL
 ```
 
 ### Verify
