@@ -1,0 +1,27 @@
+::Configuring the CLI
+# Configuring the CLI
+
+## Tutorial
+
+### Step 1
+
+#### Exercise
+
+In order to configure the CLI, paste in the following text into your terminal:
+
+```
+[CONFIGURE_COMMAND]
+```
+
+After typing in the command, hit the `Enter` key.
+
+#### Verify
+
+After hitting the `Enter` key, you should see that the it notifies you that a configuration file has been written.
+
+---
+
+## Have you installed the Exercism CLI on your computer?
+
+- [[Yes->Installation complete]]
+- [[No->Configuring the CLI - Troubleshooting]]
