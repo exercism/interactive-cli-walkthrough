@@ -4,8 +4,9 @@
 ## Download the archive
 
 If you know your process architecture (32-bit vs 64-bit vs
-ARM), download the appropriate archive from the [releases
-page](https://github.com/exercism/cli/releases/latest).
+ARM), download the appropriate archive from the
+<a href="https://github.com/exercism/cli/releases/latest" target="_blank">releases page</a>.
+
 
 ## Extract from the archive
 
