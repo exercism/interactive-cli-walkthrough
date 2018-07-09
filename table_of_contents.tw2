@@ -1,7 +1,10 @@
 ::StoryIncludes
 contents/common/welcome.tw2
 contents/common/install_complete.tw2
+contents/common/cli_install_complete.tw2
 contents/common/talk_to_a_volunteer.tw2
+contents/common/configuring_the_cli.tw2
+contents/common/configuring_the_cli_troubleshooting.tw2
 
 contents/linux/architecture.tw2
 contents/linux/directory.tw2
