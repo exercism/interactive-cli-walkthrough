@@ -24,7 +24,7 @@ To verify you are on the correct page, you must see a Downloads list when you sc
 
 On the downloads list, click the file named `BINARY_NAME-windows-64bit.zip` to download it:
 
-![64-bit download](https://transfer.sh/mwMGe/win10.png)
+![64-bit download](WALKTHROUGH_ASSETS_PATH/win10.png)
 
 ### Verify
 
@@ -40,7 +40,7 @@ Double click on `BINARY_NAME-windows-64bit.zip` to open the folder.
 
 The folder will show the file `BINARY_NAME`, and will look something like this:
 
-![Extracted folder](https://transfer.sh/h8C4G/win10-zip.png)
+![Extracted folder](WALKTHROUGH_ASSETS_PATH/win10-zip.png)
 
 
 ## Wrapping up

@@ -18,7 +18,7 @@ and hit the 'Enter' key.
 
 A new window, showing a folder, will show up. This is where we need to place the `BINARY_NAME` file. It will look something like this, but it might not be empty for you.
 
-![cmd.exe folder](https://transfer.sh/LwF0S/win10-cmd-folder.png)
+![cmd.exe folder](WALKTHROUGH_ASSETS_PATH/win10-cmd-folder.png)
 
 
 ## Step 2: Moving the `BINARY_NAME` file
@@ -30,7 +30,7 @@ Find the `BINARY_NAME` file in the folder we opened earlier, when we downloaded 
 
 In the `WindowsApps` folder, you should now see the `BINARY_NAME` file. It will look something like this:
 
-![cmd.exe folder](https://transfer.sh/CFWFA/win10-result.png)
+![cmd.exe folder](WALKTHROUGH_ASSETS_PATH/win10-result.png)
 
 
 ## Step 3: Verify installation
@@ -48,7 +48,7 @@ and hit the 'Enter' key.
 
 After hitting the `Enter` key, the Command Prompt should reply with how the `BINARY_NAME` command can be used.
 
-![Exercism usage](https://transfer.sh/12ld3l/win10-installed.png)
+![Exercism usage](WALKTHROUGH_ASSETS_PATHl/win10-installed.png)
 
 > Sidenote: As you get the hang of the Exercism CLI, you'll get to know more about its commands.
 
