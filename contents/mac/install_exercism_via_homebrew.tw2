@@ -6,11 +6,7 @@ You've made it to the last step! Since we've got the parts to install Exercism, 
 
 ---
 
-## Tutorial
-
-### Step 1
-
-#### Exercise
+## Step 1
 
 Paste in the following text into your terminal:
 
@@ -22,15 +18,13 @@ brew install BINARY_NAME
 
 After typing in the command, hit the `Enter` key.
 
-#### Verify
-
-##### Installation started
+### Installation started
 
 After hitting the `Enter` key, you should see that the terminal starts to install Exercism. Since this proccess takes time, we need to wait until it finishes.
 
 ![Confirming installation](WALKTHROUGH_ASSETS_PATH/mac/confirming_installation.png)
 
-##### Installation finished
+### Installation finished
 
 The installation is finished once you see this message on your terminal:
 
@@ -38,13 +32,11 @@ The installation is finished once you see this message on your terminal:
 
 > Sidenote: The message on your terminal doesn't need to exactly match the screenshot. If you see the message "Pouring...", that should be enough.
 
-##### Installation taking too long
+### Installation taking too long
 
 If your installation is taking too long, we recommend checking your internet connection. If your internet connection is up, we recommend trying to run the command again. It might work this time!
 
-### Step 2
-
-#### Exercise
+## Step 2
 
 In order to verify whether BINARY_NAME was successfully installed, paste the following text into your terminal.
 
@@ -54,9 +46,7 @@ BINARY_NAME
 
 After typing in the command, hit the `Enter` key.
 
-#### Verify
-
-##### Installation successful
+### Installation successful
 
 After hitting the `Enter` key, the terminal should reply with how the `BINARY_NAME` command can be used.
 
@@ -64,7 +54,7 @@ After hitting the `Enter` key, the terminal should reply with how the `BINARY_NA
 
 > Sidenote: As you get the hang of Exercism, you'll get to know more about the commands.
 
-##### Installation unsuccessful
+### Installation unsuccessful
 
 After hitting the `Enter` key, the terminal still doesn't recognize the `BINARY_NAME` command.
 
@@ -74,7 +64,7 @@ After hitting the `Enter` key, the terminal still doesn't recognize the `BINARY_
 
 If you've encountered this, we recommend trying to install again. It might work this time!
 
-### Wrapping up
+## Wrapping up
 
 Once you've reached the end of this tutorial, you should've installed Exercism on your computer.
 

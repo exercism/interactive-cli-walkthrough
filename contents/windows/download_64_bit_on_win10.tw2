@@ -4,7 +4,6 @@
 Let's download the latest version of the Exercism CLI to get up and running.
 
 ## Step 1
-### Exercise
 
 Open your browser (for example, Chrome or Edge) and navigate to
 
@@ -12,31 +11,23 @@ Open your browser (for example, Chrome or Edge) and navigate to
 https://github.com/exercism/cli/releases/latest
 ```
 
-### Verify
-
 To verify you are on the correct page, you must see a Downloads list when you scroll down.
 
 ![Downloads list](WALKTHROUGH_ASSETS_PATH/downloads_list.png)
 
 
 ## Step 2
-### Exercise
 
 On the downloads list, click the file named `BINARY_NAME-windows-64bit.zip` to download it:
 
 ![64-bit download](WALKTHROUGH_ASSETS_PATH/win10.png)
 
-### Verify
-
 To verify the file was downloaded, you should see a file named `BINARY_NAME-windows-64bit.zip` in your `Downloads` folder.
 
 
 ## Step 3
-### Exercise
 
 Double click on `BINARY_NAME-windows-64bit.zip` to open the folder.
-
-### Verify
 
 The folder will show the file `BINARY_NAME`, and will look something like this:
 

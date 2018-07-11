@@ -5,11 +5,7 @@ In order to place the Exercism program cleanly in our computer, let's create a f
 
 ---
 
-## Tutorial
-
-### Step 1
-
-#### Exercise
+## Step 1
 
 In your terminal, paste in the following to create the `bin` folder:
 
@@ -19,29 +15,25 @@ mkdir -p ~/bin
 
 ![Create bin](WALKTHROUGH_ASSETS_PATH/mac/create_bin.png)
 
-#### Verify
-
 To verify if the `bin` folder is created, paste the following command in your terminal:
 
 ```
 if [ -d ~/bin ]; then echo "folder created"; else echo "folder not created"; fi
 ```
 
-##### Folder created
+### Folder created
 
 Your terminal should reply with the following message when the folder was created:
 
 ![Folder created](WALKTHROUGH_ASSETS_PATH/mac/folder_created.png)
 
-##### Folder not created
+### Folder not created
 
 Your terminal should reply with the following message when the folder was not created:
 
 ![Folder not created](WALKTHROUGH_ASSETS_PATH/mac/folder_not_created.png)
 
-### Step 2
-
-#### Exercise
+## Step 2
 
 Once the folder was created, paste in the following command in your terminal to move the BINARY_NAME program to the `bin` folder:
 
@@ -49,23 +41,21 @@ Once the folder was created, paste in the following command in your terminal to 
 mv ~/Downloads/BINARY_NAME ~/bin
 ```
 
-#### Verify
-
 To verify whether you've moved the BINARY_NAME progam correctly, paste in the following command to your terminal:
 
 ```
 if [ -f ~/bin/BINARY_NAME ]; then echo "file moved"; else echo "file not moved"; fi
 ```
 
-##### File moved
+### File moved
 
 After pasting in the command, your terminal must reply with `file moved` if the file was moved.
 
-##### File not moved
+### File not moved
 
 After pasting in the command, your terminal must reply with `file not moved` if the file was moved.
 
-### Wrapping up
+## Wrapping up
 
 If you've reached the end of this tutorial without any problems, you should've created a `bin` folder and moved the BINARY_NAME program into it!
 

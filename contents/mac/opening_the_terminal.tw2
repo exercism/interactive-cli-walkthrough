@@ -7,25 +7,17 @@ Let's get started by opening the terminal!
 
 ---
 
-## Tutorial
-
-### Step 1: Opening Spotlight Access
-
-#### Exercise
+## Step 1: Opening Spotlight Access
 
 To open Spotlight Access, click the magnifying glass on the top right corner of your screen.
 
 ![Clicking the magnifying glass](WALKTHROUGH_ASSETS_PATH/mac/clicking_the_magnifying_glass.png)
 
-#### Verify
-
 To confirm whether Spotlight Access was successfully opened, you should see a search bar appear on your screen. When it appears, try typing into it, too!
 
 ![Spotlight access](WALKTHROUGH_ASSETS_PATH/mac/spotlight_access.png)
 
-### Step 2
-
-#### Exercise
+## Step 2
 
 To open the terminal, type in the following text into Spotlight Access:
 
@@ -39,13 +31,11 @@ terminal
 
 After typing in the command, hit the `Enter` key.
 
-#### Verify
-
 To confirm whether the terminal was successfully opened, you should see a new window appear on your screen.
 
 ![Terminal](WALKTHROUGH_ASSETS_PATH/mac/terminal.png)
 
-### Wrapping up
+## Wrapping up
 
 If you've reached the end of this tutorial without any problems, you've successfully opened the terminal! You could try typing into it and see how you could send commands to your computer.
 

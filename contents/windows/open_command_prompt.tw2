@@ -8,16 +8,12 @@ Let's get started by opening the Command Prompt.
 ---
 
 ## Step 1: Opening Start
-### Exercise
 
 Open the Start menu, by clicking the Windows icon in the bottom left corner of your screen.
 
-
 ## Step 2: Searching for the Command Prompt
-### Exercise
-With the Start menu open, start typing `cmd.exe` to search for the Command Prompt
 
-### Verify
+With the Start menu open, start typing `cmd.exe` to search for the Command Prompt
 
 When searching for `cmd.exe` in the Start menu, your results will look something like this:
 
@@ -25,10 +21,8 @@ When searching for `cmd.exe` in the Start menu, your results will look something
 
 
 ## Step 3: Open the Command Prompt
-### Exercise
-Double click the top result, as shown above, to open the Command Prompt.
 
-### Verify
+Double click the top result, as shown above, to open the Command Prompt.
 
 After double clicking, you'll see a window like the one shown here:
 

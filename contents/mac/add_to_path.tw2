@@ -5,19 +5,13 @@ In order to for us to run the BINARY_NAME program from anywhere in our terminal,
 
 ---
 
-## Tutorial
-
-### Step 1
-
-#### Exercise
+## Step 1
 
 In your terminal, paste in the following to create the `bin` folder:
 
 ```
 echo "export PATH=~/bin:$PATH" >> ~/.bash_profile
 ```
-
-#### Verify
 
 To verify if the `$PATH` variable was updated, paste the following command in your terminal:
 
@@ -31,15 +25,15 @@ Next, paste the following command in your terminal:
 BINARY_NAME
 ```
 
-#### Variable updated successfully
+### Variable updated successfully
 
 If the terminal replies with instructions on how to use the BINARY_NAME program, you've installed BINARY_NAME successfully! Give yourself a pat on the back.
 
-#### Variable not updated
+### Variable not updated
 
 If the terminal replies saying that the BINARY_NAME command is not found, it means that the variable wasn't updated.
 
-### Wrapping up
+## Wrapping up
 
 If you've reached the end of this tutorial without any problems, you have installed BINARY_NAME successfully!
 
