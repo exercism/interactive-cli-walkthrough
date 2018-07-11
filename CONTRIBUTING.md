@@ -136,6 +136,18 @@ line of the file.
 This creates a link with `Link Text` that links to a step entitled
 `Link Destination`.
 
+##### Images
+
+In order to add your own images, you'd need to put them within the `content/assets` folder.
+
+To render the image on the page, this command is used:
+
+```
+![Image alt](WALKTHROUGH_ASSETS_PATH/image.png)
+```
+
+The token `WALKTHROUGH_ASSETS_PATH` is needed as it points to the path of the assets folder.
+
 #### Viewing changes
 
 In order to view your changes, you need to compile the project. Compiling is
