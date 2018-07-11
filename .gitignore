@@ -1,4 +1,5 @@
 node_modules/
 compiled.html
+compiled_prod.html
 graph.dot
 graph.png
