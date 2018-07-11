@@ -5,11 +5,7 @@ Now that we've found out that you run on a 64-bit processor architecture. Let's 
 
 ---
 
-## Tutorial
-
-### Step 1
-
-#### Exercise
+## Step 1
 
 Open your browser and navigate to this page:
 
@@ -17,15 +13,11 @@ Open your browser and navigate to this page:
 https://github.com/exercism/cli/releases/latest
 ```
 
-#### Verify
-
 To verify you are on the correct page, you must see a Downloads list when you scroll down.
 
 ![Downloads list](WALKTHROUGH_ASSETS_PATH/downloads_list.png)
 
-### Step 2
-
-#### Exercise
+## Step 2
 
 On the downloads list, click on the file named:
 
@@ -39,21 +31,15 @@ If you're unable to find it, here it is on the downloads list:
 
 ![64-bit download](WALKTHROUGH_ASSETS_PATH/mac/64_bit_download.png)
 
-#### Verify
-
 To verify whether you've downloaded the right file, you should see the following file in your `Downloads` folder:
 
 ```
 BINARY_NAME-mac-64bit.tgz
 ```
 
-### Step 3
-
-#### Exercise
+## Step 3
 
 Double click on `BINARY_NAME-mac-64bit.tgz` in order to extract it.
-
-#### Verify
 
 To determine whether you've correctly extracted it, you must see a file named `BINARY_NAME` appear.
 
@@ -61,7 +47,7 @@ To illustrate, your `Downloads` folder should somewhat appear as this:
 
 ![Exercism extracted](WALKTHROUGH_ASSETS_PATH/mac/exercism_extracted.png)
 
-### Wrapping up
+## Wrapping up
 
 If you've reached the end of this tutorial without any problems, you should've the Exercism program in your `Downloads` folder!
 

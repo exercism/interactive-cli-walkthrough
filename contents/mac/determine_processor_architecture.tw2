@@ -7,11 +7,7 @@ Let's get started!
 
 ---
 
-## Tutorial
-
-### Step 1: Determining processor architecture
-
-#### Exercise
+## Step 1: Determining processor architecture
 
 To determine your processor architecture, paste in the following command into your Mac:
 
@@ -21,25 +17,23 @@ uname -m | if grep -q 64; then echo "64-bit CPU"; else echo "32-bit CPU"; fi
 
 Hit `Enter` after you've pasted in the command.
 
-#### Verify
-
-##### 32-bit processor architecture
+### 32-bit processor architecture
 
 If you're on a 32-bit processor architecture, your Terminal would reply with this:
 
 ![32-bit](WALKTHROUGH_ASSETS_PATH/mac/32_bit.png)
 
-##### 64-bit processor architecture
+### 64-bit processor architecture
 
 If you're on a 64-bit processor architecture, your Terminal would reply with this:
 
 ![64-bit](WALKTHROUGH_ASSETS_PATH/mac/64_bit.png)
 
-##### Unknown architecture
+### Unknown architecture
 
 If your output doesn't match any of the above, click on "I don't know" below and we could recommend steps to help you.
 
-### Wrapping up
+## Wrapping up
 
 If you've reached the end of this tutorial without any problems, you should now know what your processor architecture is!
 
