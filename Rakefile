@@ -10,9 +10,13 @@ desc "Compile the walkthrough"
 task :compile do
   filename = "compiled.html"
   binary_name = ENV["BINARY_NAME"] || "exercism"
+  walkthrough_assets_path = ENV["WALKTHROUGH_ASSETS_PATH"] || "#{Dir.pwd}/contents/assets"
 
   Twee2.build("main.tw2", filename, format: "Snowman")
+
   contents = File.read(filename).gsub("BINARY_NAME", binary_name)
+  contents = File.read(filename).gsub("WALKTHROUGH_ASSETS_PATH", walkthrough_assets_path)
+
   File.open(filename, "wb") do |f|
     f.puts contents
   end
