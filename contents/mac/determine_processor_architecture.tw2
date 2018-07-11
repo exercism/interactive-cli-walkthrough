@@ -27,13 +27,13 @@ Hit `Enter` after you've pasted in the command.
 
 If you're on a 32-bit processor architecture, your Terminal would reply with this:
 
-![32-bit](https://i.imgur.com/RqszxRw.png)
+![32-bit](WALKTHROUGH_ASSETS_PATH/mac/32_bit.png)
 
 ##### 64-bit processor architecture
 
 If you're on a 64-bit processor architecture, your Terminal would reply with this:
 
-![64-bit](https://i.imgur.com/ssF6r4f.png)
+![64-bit](WALKTHROUGH_ASSETS_PATH/mac/64_bit.png)
 
 ##### Unknown architecture
 

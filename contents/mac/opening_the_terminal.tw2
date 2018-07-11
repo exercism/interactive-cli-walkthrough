@@ -15,13 +15,13 @@ Let's get started by opening the terminal!
 
 To open Spotlight Access, click the magnifying glass on the top right corner of your screen.
 
-![Clicking the magnifying glass](https://lh5.googleusercontent.com/6ZfhlXaYoeS492oZU-tZ--GRRkCGcjc_I7-qM4HyIINfP1rGahbwj4NqEAgXJepjAcPZJWZXqA=w740)
+![Clicking the magnifying glass](WALKTHROUGH_ASSETS_PATH/mac/clicking_the_magnifying_glass.png)
 
 #### Verify
 
 To confirm whether Spotlight Access was successfully opened, you should see a search bar appear on your screen. When it appears, try typing into it, too!
 
-![Spotlight access](https://lh4.googleusercontent.com/41cK6Z4MIL3PeS0isZ-I_S-l2rtM07GDMgZ9UgvttodY2N1zlKiLlYTu_kRppsYfK1V02CEvzw=w2560)
+![Spotlight access](WALKTHROUGH_ASSETS_PATH/mac/spotlight_access.png)
 
 ### Step 2
 
@@ -35,7 +35,7 @@ terminal
 
 > Sidenote: This tutorial contains more of these. Whenever you see text surrounded by a box, it means that you need to type in or copy and paste the text in the box. We recommend the latter to avoid typos.
 
-![Typing terminal](https://lh3.googleusercontent.com/BKspnwaDby98GCLtbEvQpt_a72sF5wgS7pfgTmwVN1iJBjNgS5--h09A3hOyOBLieDKmnelBPw=w884)
+![Typing terminal](WALKTHROUGH_ASSETS_PATH/mac/typing_terminal.gif)
 
 After typing in the command, hit the `Enter` key.
 
@@ -43,7 +43,7 @@ After typing in the command, hit the `Enter` key.
 
 To confirm whether the terminal was successfully opened, you should see a new window appear on your screen.
 
-![Terminal](https://lh5.googleusercontent.com/2I3QzE8kDS4JzkB_0NIIX-RGkoTd7bP2ejILOepuamh8V3z11mi3nmyH4kzW55HRqA90QLPdVQ=w2560)
+![Terminal](WALKTHROUGH_ASSETS_PATH/mac/terminal.png)
 
 ### Wrapping up
 
