@@ -17,7 +17,7 @@ task :compile do
   Twee2.build("main.tw2", filename)
 
   contents = File.read(filename).gsub("BINARY_NAME", binary_name)
-  contents = File.read(filename).gsub("WALKTHROUGH_ASSETS_PATH", walkthrough_assets_path)
+  contents = contents.gsub("WALKTHROUGH_ASSETS_PATH", walkthrough_assets_path)
 
   File.open(filename, "wb") do |f|
     f.puts contents
@@ -32,7 +32,7 @@ task :compile_prod do
   Twee2.build("main.tw2", filename)
 
   contents = File.read(filename).gsub("BINARY_NAME", binary_name)
-  contents = File.read(filename).gsub("WALKTHROUGH_ASSETS_PATH", walkthrough_assets_path)
+  contents = contents.gsub("WALKTHROUGH_ASSETS_PATH", walkthrough_assets_path)
 
   File.open(filename, "wb") do |f|
     f.puts contents
