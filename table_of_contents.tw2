@@ -15,12 +15,6 @@ contents/linux/tarball.tw2
 contents/mac/introduction.tw2
 contents/mac/opening_the_terminal.tw2
 contents/mac/opening_the_terminal_troubleshooting.tw2
-contents/mac/asking_about_homebrew.tw2
-contents/mac/verifying_homebrew_installation.tw2
-contents/mac/install_homebrew.tw2
-contents/mac/install_homebrew_troubleshooting.tw2
-contents/mac/install_exercism_via_homebrew.tw2
-contents/mac/install_exercism_via_homebrew_troubleshooting.tw2
 contents/mac/manual_install.tw2
 contents/mac/determine_processor_architecture.tw2
 contents/mac/determine_processor_architecture_troubleshooting.tw2
@@ -35,8 +29,6 @@ contents/mac/add_to_path_troubleshooting.tw2
 contents/mac/install_exercism_on_a_mac.tw2
 contents/mac/expert/determine_processor_architecture.tw2
 contents/mac/expert/install_exercism_on_a_mac.tw2
-contents/mac/expert/install_exercism_via_homebrew.tw2
-contents/mac/expert/install_exercism_via_homebrew_troubleshooting.tw2
 contents/mac/expert/manual_install.tw2
 
 contents/windows/add_to_path.tw2
