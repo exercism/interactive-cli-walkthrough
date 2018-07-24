@@ -8,7 +8,7 @@ end
 
 desc "Compile the walkthrough"
 task :compile do
-  puts "Use rake:compile_prod to compile for production!"
+  STDERR.puts "Use 'rake compile_prod' to compile for production!"
 
   filename = "compiled.html"
   binary_name = ENV["BINARY_NAME"] || "exercism"
