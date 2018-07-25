@@ -1,7 +1,8 @@
 ::Windows Introduction
 # Installing Exercism on Windows
 
-As a user of a Windows operating system you have the choice of using an installer application to symplify the installtion process of the Exercism CLI or if you are a Windows 10 user you may opt to install the CLI manually.  The walk-through can show you the proper steps to take.
+The installer application will determine what version of the Exercism CLI you need, download it, and place it in the right location.
+If you are on Windows 10, you may opt to install the CLI manually by following the steps provided.
 
-- [[Proceed with manual walk-through installaion.->Manual Windows Install]]
 - [[Install the CLI using the installer application.->Download CLI Installer for Windows]]
+- [[Proceed with manual installation.->Manual Windows Install]]
