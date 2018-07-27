@@ -1,12 +1,11 @@
 ::Asking about Homebrew
 # Installing Homebrew on a Mac
 
-Homebrew is a package manager for the Mac, and it makes the whole Exercism installation process easier. If you want to Exercism manually, [[Manual Installation on a Mac]] would be helpful.
+Homebrew is a package manager for the Mac, and it makes the whole Exercism installation process easier.
 
----
-
-## Do you already have Homebrew installed?
+Do you already have Homebrew installed?
 
 - [[Yes->Installing Exercism via Homebrew]]
 - [[I don't know->Verifying Homebrew Installation]]
 - [[No->Installing Homebrew]]
+- [[I want to install Exercism manually->Manual Installation on a Mac]]

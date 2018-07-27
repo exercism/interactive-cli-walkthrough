@@ -1,7 +1,10 @@
 ::Mac Introduction
 # Installing Exercism on a Mac
 
-Are you comfortable installing and executing programs on terminal?
+You can use the Homebrew package manager to install the command-line client, or install it manually.
+Both methods involve using the command-line.
+
+Are you comfortable installing and executing programs in the terminal?
 
 - [[Yes->Installing Exercism on a Mac - Expert]]
 - [[No->Installing Exercism on a Mac]]
