@@ -1,4 +1,24 @@
 ::Installing Exercism on a Mac - Expert
 # Installing Exercism on a Mac
 
-- [[Manual Installation on a Mac->Manual Installation on a Mac - Expert]]
+To install BINARY_NAME via Homebrew run:
+
+```
+brew update && brew install BINARY_NAME
+```
+
+To install manually, download the appropriate version of BINARY_NAME based on your processor architecture at the <a href="https://github.com/exercism/cli/releases/latest" target="_blank">releases page</a>, then extract the archive and put the binary in your path.
+
+Check the installed version with:
+
+```
+BINARY_NAME version
+```
+
+----
+## Have you installed Exercism on your computer?
+
+- [[Yes->CLI Installation complete]]
+- [[I don't know my processor architecture->Determine processor architecture on a Mac - Expert]]
+- [[How do I put the binary in my path?->Create bin folder on a Mac]]
+- [[I'm lost, can we start over?->Installing Exercism on a Mac]]
