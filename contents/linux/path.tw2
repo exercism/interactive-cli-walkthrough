@@ -2,7 +2,7 @@
 # Adding `~/bin` to `$PATH` in Bash
 
 Note: If you’re not running Bash try to adjust the
-below to your shell or [[Talk to a Volunteer]].
+below to your shell or [[Talk to a Volunteer->Talk to a Volunteer]].
 
 To have the `BINARY_NAME` executable available everywhere on the
 command line you need to make sure `~/bin` is in your `$PATH`.
