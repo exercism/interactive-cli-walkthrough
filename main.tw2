@@ -1,7 +1,6 @@
 ::Configuration [twee2]
 Twee2::build_config.story_name = "Exercism CLI installation walkthrough"
 Twee2::build_config.story_ifid = "IFID"
-Twee2::build_config.story_format = "./storyFormats/exercism"
 
 ::StoryIncludes
 table_of_contents.tw2

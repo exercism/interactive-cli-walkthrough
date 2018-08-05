@@ -1,0 +1,1 @@
+window.storyFormat({"author":"Karlo Soriano","description":"Story format to build exercism walkthroughs","image":"icon.svg","name":"Exercism_Prod","proofing":false,"source":"<style>\ntw-storydata{display:none}\n</style>\n<div id=\"main\"></div>\n{{STORY_DATA}}\n","url":"https://bitbucket.org/klembot/snowman-2","version":"1.0.0"});
