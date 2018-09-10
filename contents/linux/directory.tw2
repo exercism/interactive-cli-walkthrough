@@ -23,13 +23,14 @@ Make sure everything worked:
 ```
 
 The above should output something like the below:
-```
-NAME:
-   BINARY_NAME - A command line tool to interact with http://exercism.io
 
-USAGE:
-   BINARY_NAME [global options] command [command options] [arguments...]
-…
+```
+A command-line interface for the v2 redesign of Exercism.
+
+Download exercises and submit your solutions.
+
+Usage:
+   [command]
 ```
 
 ---
