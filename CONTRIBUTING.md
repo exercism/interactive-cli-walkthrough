@@ -221,7 +221,7 @@ newly generated walkthrough graph.
 For more guidance, you are free to peek into how the installation
 instructions for Mac were written.
 
-[coc]: https://github.com/exercism/exercism.io/blob/master/CODE_OF_CONDUCT.md
+[coc]: https://exercism.io/code-of-conduct
 [table_of_contents.tw2]: https://github.com/exercism/exercism.io/blob/master/table_of_contents.tw2
 [squash-commits]: http://blog.steveklabnik.com/posts/2012-11-08-how-to-squash-commits-in-a-github-pull-request
 [issues]: https://github.com/exercism/interactive-cli-walkthrough/issues
