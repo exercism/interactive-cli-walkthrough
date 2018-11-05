@@ -7,9 +7,9 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     execjs (2.7.0)
-    ffi (1.9.18)
-    ffi (1.9.18-x64-mingw32)
-    ffi (1.9.18-x86-mingw32)
+    ffi (1.9.25)
+    ffi (1.9.25-x64-mingw32)
+    ffi (1.9.25-x86-mingw32)
     filewatcher (0.5.4)
       trollop (~> 2.0)
     graph (2.8.2)
@@ -67,4 +67,4 @@ DEPENDENCIES
   twee2
 
 BUNDLED WITH
-   1.16.2
+   1.16.4
