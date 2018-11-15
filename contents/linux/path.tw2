@@ -25,7 +25,7 @@ To check whether this worked, go to your home directory
 and try to run `BINARY_NAME` without providing the path:
 
 ```
-cd
+cd ~
 BINARY_NAME
 ```
 
