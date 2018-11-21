@@ -21,8 +21,7 @@ echo 'export PATH=~/bin:$PATH' >> ~/.bash_profile
 source ~/.bash_profile
 ```
 
-To check whether this worked, go to your home directory
-and try to run `BINARY_NAME` without providing the path:
+To check whether this worked, try to run `BINARY_NAME` without providing the path:
 
 ```
 BINARY_NAME
