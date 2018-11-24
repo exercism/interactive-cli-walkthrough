@@ -76,7 +76,7 @@ $ bundle
 
 ##### Format
 
-Each step is written in Markdown and Twee-style. If you haven't used Markdown before, we recommend looking at this [tutorial][markdown]. If you haven't used Twee2 yet, this is the [project documentaiton](https://dan-q.github.io/twee2/documentation.html)
+Each step is written in Markdown and Twee-style. If you haven't used Markdown before, we recommend looking at this [tutorial][markdown]. If you haven't used Twee2 yet, this is the [project documentation](https://dan-q.github.io/twee2/documentation.html)
 
 Steps should be saved with the `*.tw2` file extension.
 
