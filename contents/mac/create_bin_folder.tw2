@@ -41,7 +41,7 @@ Once the folder was created, paste in the following command in your terminal to 
 mv ~/Downloads/BINARY_NAME ~/bin
 ```
 
-To verify whether you've moved the BINARY_NAME progam correctly, paste in the following command to your terminal:
+To verify whether you've moved the BINARY_NAME program correctly, paste in the following command to your terminal:
 
 ```
 if [ -f ~/bin/BINARY_NAME ]; then echo "file moved"; else echo "file not moved"; fi
