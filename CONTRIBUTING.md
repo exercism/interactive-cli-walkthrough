@@ -224,11 +224,7 @@ instructions for Mac were written.
 #### The parser
 In order to parse the files, we've written a custom Twine2 story format called Exercism. It is located within `storyFormats/`.
 
-The code for this story format lives in @kntsoriano's local machine, but it should be moved into its own repository soon.
-
-The story format is based on [snowman](https://github.com/klembot/snowman), and its only difference is that any text within code blocks aren't converted to links.
-
-We have separate formats for development and production. In the development version, the Javascript is contained within the compiled HTML file, while in the production version, it is not. This is because we want to have control on when the Javascript loads on production, especially when we want to bind events to the walkthrough right after it is initialized. A consequence of this is that in order to update the story format on production, we need to copy over the generated JS into [exercism/website](https://github.com/exercism/website).
+The story format code lives in [exercism/twine2-story-format](https://github.com/exercism/twine2-story-format).
 
 [coc]: https://exercism.io/code-of-conduct
 [table_of_contents.tw2]: https://github.com/exercism/exercism.io/blob/master/table_of_contents.tw2
