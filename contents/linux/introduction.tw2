@@ -8,7 +8,7 @@ right exectuable matching your process architecture.
 
 ---
 
-## Do you know your process architecture (32-bit vs 64-bit vs ARM)?
+## Do you know your process architecture (x86 (32-bit) vs x86_64 vs ARM)?
 
 - [[Yes->Linux tarball]]
 - [[No->Linux architecture]]

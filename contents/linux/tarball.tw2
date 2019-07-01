@@ -3,8 +3,7 @@
 
 ## Download the archive
 
-If you know your process architecture (32-bit vs 64-bit vs
-ARM), download the appropriate archive from the
+If you know your process architecture (x86 (32-bit) vs x86_64 vs ARM), download the appropriate archive from the
 <a href="https://github.com/exercism/cli/releases/latest" target="_blank">releases page</a>.
 
 
