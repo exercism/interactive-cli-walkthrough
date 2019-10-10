@@ -1,14 +1,11 @@
 ::Linux Introduction
 # Installing Exercism on Linux
 
-To install Exercism on Linux you need to get the `BINARY_NAME`
-executable; different process architectures have different
-`BINARY_NAME` executables, so you need to install the
-right exectuable matching your process architecture.
+You can use the [snap package](https://snapcraft.io/exercism) to install the command-line client, or install it manually. If you are unsure which one to choose, try using snap first. More information is available in the next section.
 
 ---
 
-## Do you know your process architecture (x86 (32-bit) vs x86_64 (64-bit) vs ARM)?
+## I would like to install the CLI
 
-- [[Yes->Linux tarball]]
-- [[No->Linux architecture]]
+- [[Using snap->Linux - Snap]]
+- [[Using the source code->Linux tarball]]
