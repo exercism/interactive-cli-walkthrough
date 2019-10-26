@@ -1,7 +1,7 @@
 ::Linux directory
 # Moving the Executable to `~/bin`
 
-Once you download and extract the archive, make it available in your $PATH.
+Once you download and extract the archive, make it available in your `$PATH`.
 
 First, let’s make sure the directory exists:
 
