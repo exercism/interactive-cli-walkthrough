@@ -13,9 +13,9 @@ Check the installed version with:
 BINARY_NAME version
 ```
 
-If you do not have sudo access, you will need to install via source code. 
+If you do not have sudo access, you will need to [[install via source code->Linux tarball]].
 
-If you don't have snap installed on your system, you can [follow this tutorial](https://tutorials.ubuntu.com/tutorial/basic-snap-usage). If you are not familiar with snaps, you may want to [learn more about them](https://www.fosslinux.com/10380/what-are-snaps-and-how-to-install-it-on-various-linux-distributions.htm) and [how to manage them](https://hackernoon.com/managing-ubuntu-snaps-the-stuff-no-one-tells-you-625dfbe4b26c). 
+If you don't have snap installed on your system, you can [follow this tutorial](https://tutorials.ubuntu.com/tutorial/basic-snap-usage). If you are not familiar with snaps, you may want to [learn more about them](https://www.fosslinux.com/10380/what-are-snaps-and-how-to-install-it-on-various-linux-distributions.htm) and [how to manage them](https://hackernoon.com/managing-ubuntu-snaps-the-stuff-no-one-tells-you-625dfbe4b26c).
 
 ----
 ## Have you installed Exercism on your computer?
