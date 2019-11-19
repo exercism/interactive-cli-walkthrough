@@ -8,26 +8,26 @@ in the following command into your terminal:
 uname -m
 ```
 
-Hit `Enter` after you’ve pasted in the command and examine the output.
+Hit `Enter` after you have pasted in the command and examine the output.
 
 ## `x86_64`
 
-If the output is `x86_64` then you’re on a 64-bit architecture.
+If the output is `x86_64` then you are on a 64-bit architecture.
 
-The file you’re looking for is `BINARY_NAME-linux-64bit.tgz`.
+The file you are looking for is `BINARY_NAME-linux-64bit.tgz`.
 
 ## `i686`
 
-If the output is `i686` then you’re on a 32-bit architecture.
+If the output is `i686` then you are on a 32-bit architecture.
 
-The file you’re looking for is `BINARY_NAME-linux-32bit.tgz`.
+The file you are looking for is `BINARY_NAME-linux-32bit.tgz`.
 
 ## `armv5l`, `armv6l`, `armv7l` or `armv8l`
 
 If the output is `armv5l`, `armv6l`, `armv7l`
-or `armv8l` then you’re on an ARM architecture.
+or `armv8l` then you are on an ARM architecture.
 
-The file you’re looking for is `BINARY_NAME-linux-arm-v5.tgz`,
+The file you are looking for is `BINARY_NAME-linux-arm-v5.tgz`,
 `BINARY_NAME-linux-arm-v6.tgz`, `BINARY_NAME-linux-arm-v7.tgz`
 or `BINARY_NAME-linux-arm-v8.tgz` (respectively).
 
