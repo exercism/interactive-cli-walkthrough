@@ -15,6 +15,8 @@ Check the installed version with:
 BINARY_NAME version
 ```
 
+It should be at least version 3.x
+
 ----
 ## Have you installed Exercism on your computer?
 
