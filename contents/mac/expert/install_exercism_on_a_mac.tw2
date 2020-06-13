@@ -4,7 +4,8 @@
 To install BINARY_NAME via Homebrew run:
 
 ```
-brew update && brew install BINARY_NAME
+brew update
+brew install BINARY_NAME
 ```
 
 To install manually, download the appropriate version of BINARY_NAME based on your processor architecture at the <a href="https://github.com/exercism/cli/releases/latest" target="_blank">releases page</a>, then extract the archive and put the binary in your path.
