@@ -10,7 +10,7 @@ In order to for us to run the BINARY_NAME program from anywhere in our terminal,
 In your terminal, paste in the following to create the `bin` folder:
 
 ```
-echo "export PATH=~/bin:$PATH" >> ~/.bash_profile
+echo 'export PATH=~/bin:$PATH' >> ~/.bash_profile
 ```
 
 To verify if the `$PATH` variable was updated, paste the following command in your terminal:
