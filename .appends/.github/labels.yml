@@ -1,0 +1,48 @@
+# ----------------------------------------------------------------------------------------- #
+# These are the repository-specific labels that augment the Exercise-wide labels defined in #
+# https://github.com/exercism/org-wide-files/blob/main/global-files/.github/labels.yml.     #
+# ----------------------------------------------------------------------------------------- #
+
+- name: "dependencies"
+  description: "Pull requests that update a dependency file"
+  color: "0366d6"
+
+- name: "duplicate"
+  description: ""
+  color: "cccccc"
+
+- name: "invalid"
+  description: ""
+  color: "e6e6e6"
+
+- name: "priority/blocking-v2-launch"
+  description: ""
+  color: "BFE3DF"
+
+- name: "priority/maybe-later"
+  description: ""
+  color: "BFE3DF"
+
+- name: "priority/nice-to-have-for-v2"
+  description: ""
+  color: "BFE3DF"
+
+- name: "question"
+  description: ""
+  color: "cc317c"
+
+- name: "status/pr-welcome"
+  description: ""
+  color: "128A0C"
+
+- name: "type/bug"
+  description: ""
+  color: "ee0701"
+
+- name: "type/improvement"
+  description: ""
+  color: "bfd4f2"
+
+- name: "wontfix"
+  description: ""
+  color: "ffffff"
