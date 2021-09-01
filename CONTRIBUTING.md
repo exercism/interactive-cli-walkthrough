@@ -226,8 +226,8 @@ In order to parse the files, we've written a custom Twine2 story format called E
 
 The story format code lives in [exercism/twine2-story-format](https://github.com/exercism/twine2-story-format).
 
-[coc]: https://exercism.io/code-of-conduct
-[table_of_contents.tw2]: https://github.com/exercism/exercism.io/blob/master/table_of_contents.tw2
-[squash-commits]: http://blog.steveklabnik.com/posts/2012-11-08-how-to-squash-commits-in-a-github-pull-request
+[coc]: https://exercism.org/code-of-conduct
+[table_of_contents.tw2]: https://github.com/exercism/interactive-cli-walkthrough/blob/main/table_of_contents.tw2
+[squash-commits]: https://blog.steveklabnik.com/posts/2012-11-08-how-to-squash-commits-in-a-github-pull-request
 [issues]: https://github.com/exercism/interactive-cli-walkthrough/issues
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
