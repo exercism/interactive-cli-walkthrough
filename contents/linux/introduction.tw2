@@ -1,11 +1,10 @@
 ::Linux Introduction
 # Installing Exercism on Linux
 
-You can use the [snap package](https://snapcraft.io/exercism) to install the command-line client, or install it manually. If you are unsure which one to choose, try using snap first. More information is available in the next section.
+You can install the CLI manually. More information is available in the next section.
 
 ---
 
 ## I would like to install the CLI
 
-- [[Using snap->Linux - Snap]]
 - [[Using the source code->Linux tarball]]
