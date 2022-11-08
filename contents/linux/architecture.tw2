@@ -33,13 +33,11 @@ or `BINARY_NAME-linux-arm-v8.tgz` (respectively).
 
 ## Other
 
-If your output does not match any of the above, try the 
-snap package or talk to a volunteer if snap is not an option for you.
+If your output does not match any of the above, try talk to a volunteer.
 
 ---
 
 ## Do you know your system’s process architecture?
 
 - [[Yes->Linux tarball]]
-- [[No, I would like to try the snap package->Linux - Snap]]
 - [[No, I would like talk to a volunteer->Talk to a Volunteer]]
