@@ -1,7 +1,7 @@
 ::Linux architecture
-# Determine process architecture on Linux
+# Determine processor architecture on Linux
 
-To determine your process architecture, paste
+To determine your processor architecture, paste
 in the following command into your terminal:
 
 ```
@@ -37,7 +37,7 @@ If your output does not match any of the above, try talk to a volunteer.
 
 ---
 
-## Do you know your system’s process architecture?
+## Do you know your system’s processor architecture?
 
 - [[Yes->Linux tarball]]
 - [[No, I would like talk to a volunteer->Talk to a Volunteer]]
