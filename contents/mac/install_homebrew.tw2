@@ -44,6 +44,8 @@ Your terminal should now reply saying that the `homebrew` installation has start
 
 After hitting the `Enter` key, you should see that the terminal prompts you to confirm installation.
 
+> Sidenote: Your installation directories may be different.
+
 ```none
 ==> This script will install:
 /usr/local/bin/brew
