@@ -3,3 +3,5 @@ compiled.html
 compiled_prod.html
 graph.dot
 graph.png
+.bundle/
+vendor/
