@@ -10,60 +10,105 @@ If you would like to read more on Homebrew before installing it, the <a href="ht
 Paste in the following text into your terminal:
 
 ```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 After typing in the command, hit the `Enter` key.
 
-After hitting the `Enter` key, you should see that the terminal prompts you to confirm installation.
-
-![Confirming brew installation](WALKTHROUGH_ASSETS_PATH/mac/confirming_brew_installation.png)
-
 ## Step 2
 
-Hit the `Enter` key to confirm the `homebrew` installation.
+```none
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+==> Checking for `sudo` access (which may request your password)...
+Password:
+```
 
-After hitting the `Enter` key, the terminal prompts you to confirm again by typing in your password.
+Type in your password and hit `Enter`.
 
-![Input password](WALKTHROUGH_ASSETS_PATH/mac/input_password.png)
-
-## Step 3
-
-Type in your password in the terminal and hit `Enter`.
-
-> Sidenote: If it's your first time doing this, you might be confused that as you are typing, nothing appears. This is a security feature of the terminal. Just keep on typing and press `Enter` when you finish.
+> Sidenote: If it is your first time doing this, you might be confused that as you are typing, nothing appears.
+> This is a security feature of the terminal.
+> Just keep on typing and press `Enter` when you finish.
 
 ### Incorrect password was typed in
 
-You will see a message that an incorrect password was typed in. First, try to verify if you've typed your password correctly. If it still doesn't work, it may be the case that the password you have isn't the administrator's password. It would be good to ask your administrator to put in the password for you.
+You will see a message that an incorrect password was typed in.
+First, try to verify if you have typed your password correctly.
+If it still doesn't work, it may be the case that the password you have isn't the administrator's password.
+It would be good to ask your administrator to put in the password for you.
 
 ### Correct password was typed in
 
-Your terminal should now reply saying that the `homebrew` installation has started. It may look something like this:
+Your terminal should now reply saying that the `homebrew` installation has started.
 
-![Homebrew installing](WALKTHROUGH_ASSETS_PATH/mac/homebrew_installing.png)
+## Step 3
+
+After hitting the `Enter` key, you should see that the terminal prompts you to confirm installation.
+
+> Sidenote: Your installation directories may be different.
+
+```none
+==> This script will install:
+/usr/local/bin/brew
+/usr/local/share/doc/homebrew
+/usr/local/share/man/man1/brew.1
+/usr/local/share/zsh/site-functions/_brew
+/usr/local/etc/bash_completion.d/brew
+/usr/local/Homebrew
+==> The following existing directories will be made writable by user only:
+/usr/local/share/zsh
+/usr/local/share/zsh/site-functions
+==> The following existing directories will have their owner set to glennj:
+/usr/local/share/zsh
+/usr/local/share/zsh/site-functions
+==> The following existing directories will have their group set to admin:
+/usr/local/share/zsh
+/usr/local/share/zsh/site-functions
+
+Press RETURN/ENTER to continue or any other key to abort:
+```
+
+Hit the `Enter` key to confirm the `homebrew` installation.
 
 ## Step 4
 
-Since `homebrew` is still installing at this point, the only need thing we need to do is wait. It may take at most 5 minutes.
+Since `homebrew` is still installing at this point, the only need thing we need to do is wait.
+It may take at most 5 minutes.
 
 ### Installation is successful
 
-After waiting, your terminal must respond with a message saying that the Homebrew installation is complete. It may look something like this:
+After waiting, your terminal must respond with a message saying that the Homebrew installation is complete.
+It may look something like this:
 
-![Homebrew install confirmation](WALKTHROUGH_ASSETS_PATH/mac/homebrew_install_confirmation.png)
+```none
+==> Installation successful!
 
-### Installation isn't successful
+==> Homebrew has enabled anonymous aggregate formulae and cask analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics data has been sent yet (nor will any be during this install run).
 
-If you don't seem to see a message confirming that homebrew is installed, we first recommend to check whether your internet connection is up. The installation process requires it. If your connection is up, we recommend running the install process again.
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+==> Next steps:
+- Run brew help to get started
+- Further documentation:
+    https://docs.brew.sh
+```
+
+### Installation is not successful
+
+If you don't seem to see a message confirming that homebrew is installed, we first recommend to check whether your internet connection is up.
+The installation process requires it.
+If your connection is up, we recommend running the install process again.
 
 ## Wrapping up
 
-Once you've reached the end of this tutorial, you should've installed Homebrew on your computer.
+Once you have reached the end of this tutorial, you should have installed Homebrew on your computer.
 
 ---
 
 ## Were you able to install Homebrew?
 - [[Yes->Installing Exercism via Homebrew]]
 - [[I don't know->Verifying Homebrew Installation]]
-- [[No->Installing Homebrew - Troubleshooting]]
+- [[No->Talk to a Volunteer]]
