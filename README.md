@@ -2,7 +2,7 @@
 
 A repository for the text found in the Exercism CLI installation walkthrough.
 
-To start contributing, please view the [Contributing Guide](https://github.com/exercism/interactive-cli-walkthrough/blob/master/CONTRIBUTING.md).
+To start contributing, please view the [Contributing Guide](https://github.com/exercism/interactive-cli-walkthrough/blob/main/CONTRIBUTING.md).
 
 ## Deploying changes to production
 
@@ -16,7 +16,7 @@ We don't worry about submitting a pull request for this, since the changes have
 been reviewed in a pull request in the exercism/interactive-cli-walkthrough repository
 before compiling.
 
-```
+```shell
 rake compile:prod
 cp compiled_prod.html ../website-copy/walkthrough/index.html
 ```

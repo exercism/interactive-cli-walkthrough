@@ -29,7 +29,7 @@ namespace :compile do
   task :prod do
     filename = "compiled_prod.html"
     binary_name = ENV["BINARY_NAME"] || "exercism"
-    walkthrough_assets_path = "https://raw.githubusercontent.com/exercism/interactive-cli-walkthrough/master/contents/assets"
+    walkthrough_assets_path = "https://raw.githubusercontent.com/exercism/interactive-cli-walkthrough/main/contents/assets"
     Twee2.build("main.tw2", filename, format: "./storyFormats/exercism_prod")
 
     contents = File.read(filename).gsub("BINARY_NAME", binary_name)
