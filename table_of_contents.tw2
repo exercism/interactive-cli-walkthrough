@@ -10,7 +10,6 @@ contents/linux/directory.tw2
 contents/linux/introduction.tw2
 contents/linux/path.tw2
 contents/linux/tarball.tw2
-contents/linux/snap.tw2
 
 contents/mac/introduction.tw2
 contents/mac/opening_the_terminal.tw2
@@ -23,8 +22,7 @@ contents/mac/install_exercism_via_homebrew_troubleshooting.tw2
 contents/mac/manual_install.tw2
 contents/mac/determine_processor_architecture.tw2
 contents/mac/determine_processor_architecture_troubleshooting.tw2
-contents/mac/download_32_bit_version.tw2
-contents/mac/download_32_bit_version_troubleshooting.tw2
+contents/mac/32_bit_version_not_supported.tw2
 contents/mac/download_64_bit_version.tw2
 contents/mac/download_64_bit_version_troubleshooting.tw2
 contents/mac/create_bin_folder.tw2

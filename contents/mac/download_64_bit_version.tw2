@@ -22,7 +22,7 @@ To verify you are on the correct page, you must see a Downloads list when you sc
 On the downloads list, click on the file named:
 
 ```
-BINARY_NAME-mac-64bit.tgz
+BINARY_NAME-darwin-x86_64.tar.gz
 ```
 
 Clicking on it downloads the file.
@@ -34,12 +34,12 @@ If you're unable to find it, here it is on the downloads list:
 To verify whether you've downloaded the right file, you should see the following file in your `Downloads` folder:
 
 ```
-BINARY_NAME-mac-64bit.tgz
+BINARY_NAME-darwin-x86_64.tar.gz
 ```
 
 ## Step 3
 
-Double click on `BINARY_NAME-mac-64bit.tgz` in order to extract it.
+Double click on `BINARY_NAME-darwin-x86_64.tar.gz` in order to extract it.
 
 To determine whether you've correctly extracted it, you must see a file named `BINARY_NAME` appear.
 
