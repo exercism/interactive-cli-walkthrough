@@ -12,9 +12,11 @@ To get new changes to production we need to:
 2. Copy the compiled file to the [exercism/website-copy](https://github.com/exercism/website-copy) repository
 3. Commit to `main` and push to GitHub
 
-We don't worry about submitting a pull request for this, since the changes have
-been reviewed in a pull request in the exercism/interactive-cli-walkthrough repository
-before compiling.
+Ideally we wouldn't worry about submitting a pull request for this,
+since the changes have been reviewed in a pull request in the
+exercism/interactive-cli-walkthrough repository before compiling.  The
+master branch on website-copy is protected, so you will need to create a
+pull request.
 
 ```shell
 rake compile:prod
