@@ -35,10 +35,10 @@ Your terminal should reply with the following message when the folder was not cr
 
 ## Step 2
 
-Once the folder was created, paste in the following command in your terminal to move the BINARY_NAME program to the `bin` folder:
+Once the folder was created, paste in the following command in your terminal to move the BINARY_NAME program to the `~/bin` folder:
 
 ```
-mv ~/Downloads/BINARY_NAME ~/bin
+mv ~/Downloads/exercism-3.0-*/BINARY_NAME/ ~/bin
 ```
 
 To verify whether you've moved the BINARY_NAME program correctly, paste in the following command to your terminal:
